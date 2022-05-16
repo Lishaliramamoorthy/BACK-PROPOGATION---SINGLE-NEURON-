@@ -60,8 +60,8 @@ print(w)
 ```
 
 ## OUTPUT:
+<img width="744" alt="img" src="https://user-images.githubusercontent.com/75237886/168618827-6447149b-becc-43ee-af79-a8aaf3922404.png">
 
-<img width="766" alt="output" src="https://user-images.githubusercontent.com/75234991/164034556-ebeff13b-a07b-4277-82ab-39cfcd05244e.png">
 
 ## RESULT:
 
