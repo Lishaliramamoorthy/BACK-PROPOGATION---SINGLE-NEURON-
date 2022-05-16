@@ -20,8 +20,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 2. Input is modeled using real weights W. The weights are usually randomly selected.
 3. Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.
 4. Calculate the error in the outputs.
-5. Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased. 
-<br/><br/>Keep repeating the process until the desired output is achieved.
+5. Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased. Keep repeating the process until the desired output is achieved.
 
 ## PROGRAM:
 ```python
@@ -52,6 +51,6 @@ print(w)
 ```
 ## OUTPUT:
 <img width="744" alt="img" src="https://user-images.githubusercontent.com/75237886/168618827-6447149b-becc-43ee-af79-a8aaf3922404.png">
-## RESULT:
 
+## RESULT:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
